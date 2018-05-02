@@ -1,4 +1,7 @@
-import time, getpass,sys,os
+import time
+import getpass
+import sys
+import os
 from selenium import webdriver
 import pandas as pd
 
